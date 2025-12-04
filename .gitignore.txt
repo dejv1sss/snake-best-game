@@ -1,0 +1,16 @@
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.tmp
+*.cache
+*.log
+*.vsidx
+*.db
+*.db-shm
+*.db-wal
+
+# MonoGame pipeline build artifacts
+*.mgcb.tmp
+*.mgcontent
