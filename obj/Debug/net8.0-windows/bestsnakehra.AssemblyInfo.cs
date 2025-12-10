@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bestsnakehra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+201ec736d8330b50dec1c6b214d24935c55bc9b3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8608a17d1cda53c788feabc8a1ce7763a719d7b1")]
 [assembly: System.Reflection.AssemblyProductAttribute("bestsnakehra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bestsnakehra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
